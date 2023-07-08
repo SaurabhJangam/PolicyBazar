@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Lauching browser..]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-07-01T20:38:30 IST" name="Default suite" finished-at="2023-07-01T20:38:44 IST" duration-ms="13971">
+    <groups>
+    </groups>
+    <test started-at="2023-07-01T20:38:30 IST" name="Default test" finished-at="2023-07-01T20:38:44 IST" duration-ms="13971">
+      <class name="testClasses.TC1_verifyUsername">
+        <test-method is-config="true" signature="launchPolicyBazar()[pri:0, instance:testClasses.TC1_verifyUsername@316bcf94]" started-at="2023-07-01T20:38:30 IST" name="launchPolicyBazar" finished-at="2023-07-01T20:38:34 IST" duration-ms="4066" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Lauching browser..]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchPolicyBazar -->
+        <test-method is-config="true" signature="signInToPolicyBazar()[pri:0, instance:testClasses.TC1_verifyUsername@316bcf94]" started-at="2023-07-01T20:38:34 IST" name="signInToPolicyBazar" finished-at="2023-07-01T20:38:44 IST" duration-ms="9821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInToPolicyBazar -->
+        <test-method signature="verifyUserName()[pri:0, instance:testClasses.TC1_verifyUsername@316bcf94]" started-at="2023-07-01T20:38:44 IST" name="verifyUserName" finished-at="2023-07-01T20:38:44 IST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserName -->
+        <test-method is-config="true" signature="closePolicyBazar()[pri:0, instance:testClasses.TC1_verifyUsername@316bcf94]" started-at="2023-07-01T20:38:44 IST" name="closePolicyBazar" finished-at="2023-07-01T20:38:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closePolicyBazar -->
+      </class> <!-- testClasses.TC1_verifyUsername -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
